@@ -1,7 +1,8 @@
 ### Hi there 👋
 Привет меня зовут Батыр. МНе 15 лет. И я Фронтенд разработчик.
-<img src="![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/8f3aaa36-0019-4738-8df9-ed397d448a07)
-" alt="альтернативный текст">
+<img src="![download](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/0161c839-1f94-4ce8-a6b6-fb9f170e092d)
+" alt="альтернативный текст">![download](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/0161c839-1f94-4ce8-a6b6-fb9f170e092d)
+
 
 
 ### ⚫️ Мой стек технологий: ⚫️
