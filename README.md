@@ -5,13 +5,13 @@
 
 
 ### ⚫️ Мой стек технологий: ⚫️
-![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/3763dd38-7b6d-477d-ab7b-853934e0e946)
-![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/745228c6-c8cb-4d42-ba4a-76c614fb0620)
-![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/bcebe90d-936a-48be-88f6-1ca7105ae5cc)
-![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/d56525f1-06d0-46ba-bf6c-b31bb3a08b4a)
-<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=blue"/>
-![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/e7218e60-a344-4bc6-9490-093c2ec475a1)
-![image](https://github.com/FrontendDevelop2023/FrontendDevelop2023/assets/133990011/bed551f0-4aa1-4323-aade-e5cec77e1842)
+<img src="https://img.shields.io/badge/Html-black?style=for-the-badge&logo=html5&logoColor=red"/>
+<img src="https://img.shields.io/badge/Css-black?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Sass-black?style=for-the-badge&logo=sass&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=black"/>
 
 
 ### ⚫️ Мои контакты и почта: ⚫️
